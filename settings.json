@@ -1,0 +1,10 @@
+{
+    "window_width": 800,
+    "window_height": 400,
+    "window_x": 285,
+    "window_y": 165,
+    "sensitivity": 10.0,
+    "color_palette": 12,
+    "audio_source": "microphone",
+    "show_hotkey_hint": false
+}
